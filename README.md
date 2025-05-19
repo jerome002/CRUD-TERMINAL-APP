@@ -1,6 +1,16 @@
 # JavaScript Programming
 
 A collection of JavaScript exercises and examples designed to reinforce core programming concepts. This repository includes practical demonstrations of asynchronous programming, function usage, and a simple CRUD application for managing contacts via the terminal.
+# Topics Covered
+- Functions and callbacks
+
+-Promises and async/await
+
+-Object manipulation
+
+-Terminal I/O using Node.js
+
+-Basic browser JavaScript (via HTML file)
 
 ## Table of Contents
 
